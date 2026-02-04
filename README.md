@@ -1,1 +1,3 @@
-# time-project-n8er
+git remote add origin https://github.com/YOUR_USERNAME/timeoe-project.git
+git branch -M main
+git push -u origin main
